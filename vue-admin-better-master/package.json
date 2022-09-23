@@ -110,5 +110,11 @@
   "engines": {
     "node": ">=8.9",
     "npm": ">= 3.0.0"
-  }
+  },
+  "description": "[简体中文](./README.md) | English",
+  "bugs": {
+    "url": "https://github.com/chuzhixin/vue-admin-beautiful/issues"
+  },
+  "main": ".eslintrc.js",
+  "license": "ISC"
 }
